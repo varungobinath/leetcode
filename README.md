@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varungobinath/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/varungobinath/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/varungobinath/leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/varungobinath/leetcode/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varungobinath/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/varungobinath/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
