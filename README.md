@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/varungobinath/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/varungobinath/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/varungobinath/leetcode/tree/master/0054-spiral-matrix) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varungobinath/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/varungobinath/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/varungobinath/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/varungobinath/leetcode/tree/master/0049-group-anagrams) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/varungobinath/leetcode/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/varungobinath/leetcode/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 <!---LeetCode Topics End-->
