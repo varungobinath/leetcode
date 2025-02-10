@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/varungobinath/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/varungobinath/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/varungobinath/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/varungobinath/leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varungobinath/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/varungobinath/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/varungobinath/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/varungobinath/leetcode/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/varungobinath/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/varungobinath/leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varungobinath/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/varungobinath/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/varungobinath/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/varungobinath/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/varungobinath/leetcode/tree/master/0242-valid-anagram) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 ## Backtracking
 |  |
