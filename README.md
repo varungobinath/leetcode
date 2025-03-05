@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varungobinath/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varungobinath/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1603-running-sum-of-1d-array](https://github.com/varungobinath/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/varungobinath/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varungobinath/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varungobinath/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/varungobinath/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Union Find
 |  |
 | ------- |
