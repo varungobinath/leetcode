@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/varungobinath/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/varungobinath/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varungobinath/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/varungobinath/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/varungobinath/leetcode/tree/master/2383-add-two-integers) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varungobinath/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/varungobinath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varungobinath/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/varungobinath/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varungobinath/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/varungobinath/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/varungobinath/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varungobinath/leetcode/tree/master/0567-permutation-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
