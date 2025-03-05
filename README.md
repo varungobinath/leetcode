@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/varungobinath/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
+| [3468-find-the-encrypted-string](https://github.com/varungobinath/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
 |  |
 | ------- |
