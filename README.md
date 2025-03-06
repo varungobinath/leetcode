@@ -197,4 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
