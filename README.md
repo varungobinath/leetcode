@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/varungobinath/leetcode/tree/master/2383-add-two-integers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2610-closest-prime-numbers-in-range](https://github.com/varungobinath/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/varungobinath/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2610-closest-prime-numbers-in-range](https://github.com/varungobinath/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Tree
 |  |
 | ------- |
