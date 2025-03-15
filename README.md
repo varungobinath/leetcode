@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/varungobinath/leetcode/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/varungobinath/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
