@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varungobinath/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varungobinath/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varungobinath/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/varungobinath/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/varungobinath/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/varungobinath/leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/varungobinath/leetcode/tree/master/0377-combination-sum-iv) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varungobinath/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/varungobinath/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/varungobinath/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varungobinath/leetcode/tree/master/0567-permutation-in-string) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varungobinath/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Number Theory
 |  |
 | ------- |
