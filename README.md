@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/varungobinath/leetcode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/varungobinath/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1395-minimum-time-visiting-all-points](https://github.com/varungobinath/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varungobinath/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varungobinath/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/varungobinath/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/varungobinath/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varungobinath/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1395-minimum-time-visiting-all-points](https://github.com/varungobinath/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varungobinath/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varungobinath/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/varungobinath/leetcode/tree/master/1642-water-bottles) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/varungobinath/leetcode/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/varungobinath/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
