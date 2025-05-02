@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/varungobinath/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varungobinath/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varungobinath/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/varungobinath/leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/varungobinath/leetcode/tree/master/3468-find-the-encrypted-string) |
