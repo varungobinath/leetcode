@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/varungobinath/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/varungobinath/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/varungobinath/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2048-build-array-from-permutation](https://github.com/varungobinath/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varungobinath/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/varungobinath/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/varungobinath/leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/varungobinath/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
 ## Math
