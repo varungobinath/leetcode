@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/varungobinath/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varungobinath/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/varungobinath/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/varungobinath/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varungobinath/leetcode/tree/master/0011-container-with-most-water) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/varungobinath/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
 |  |
 | ------- |
