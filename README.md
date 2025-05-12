@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/varungobinath/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/varungobinath/leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
