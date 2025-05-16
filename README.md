@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/varungobinath/leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/varungobinath/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2235-capitalize-the-title](https://github.com/varungobinath/leetcode/tree/master/2235-capitalize-the-title) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varungobinath/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/varungobinath/leetcode/tree/master/3468-find-the-encrypted-string) |
