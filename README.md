@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varungobinath/leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varungobinath/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/varungobinath/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0292-nim-game](https://github.com/varungobinath/leetcode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/varungobinath/leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varungobinath/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/varungobinath/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -328,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/varungobinath/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/varungobinath/leetcode/tree/master/0610-triangle-judgement) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/varungobinath/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/varungobinath/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
