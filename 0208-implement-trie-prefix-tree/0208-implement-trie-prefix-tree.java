@@ -1,13 +1,14 @@
 class Trie {
     static class TrieNode{
-        HashMap<Character,TrieNode> children;
+        TrieNode[] children;
         boolean isEndOfWord;
         TrieNode(){
-            children = new HashMap<>();
+            children = new TrieNode[26];
             isEndOfWord = false;
         }
     }
-    private TrieNode root;
+    TrieNode root;
+
     public Trie() {
         root = new TrieNode();
     }
@@ -15,10 +16,11 @@ class Trie {
     public void insert(String word) {
         TrieNode node = root;
         for(char ch : word.toCharArray()){
-            if(!node.children.containsKey(ch)){
-                node.children.put(ch,new TrieNode());
+            int idx = ch-'a';
+            if(node.children[idx]==null){
+                node.children[idx] = new TrieNode();
             }
-            node = node.children.get(ch);
+            node = node.children[idx];
         }
         node.isEndOfWord = true;
     }
@@ -26,10 +28,10 @@ class Trie {
     public boolean search(String word) {
         TrieNode node = root;
         for(char ch : word.toCharArray()){
-            if(node.children.containsKey(ch)){
-                node = node.children.get(ch);
-            }else{
-                return false;
+            int idx = ch-'a';
+            if(node.children[idx]==null) return false;
+            else{
+                node = node.children[idx];
             }
         }
         return node.isEndOfWord;
@@ -38,10 +40,10 @@ class Trie {
     public boolean startsWith(String prefix) {
         TrieNode node = root;
         for(char ch : prefix.toCharArray()){
-            if(node.children.containsKey(ch)){
-                node = node.children.get(ch);
-            }else{
-                return false;
+            int idx = ch-'a';
+            if(node.children[idx]==null) return false;
+            else{
+                node = node.children[idx];
             }
         }
         return true;
