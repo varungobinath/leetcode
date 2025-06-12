@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/varungobinath/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/varungobinath/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/varungobinath/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/varungobinath/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varungobinath/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/varungobinath/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/varungobinath/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/varungobinath/leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/varungobinath/leetcode/tree/master/0377-combination-sum-iv) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varungobinath/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/varungobinath/leetcode/tree/master/0055-jump-game) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varungobinath/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/varungobinath/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
