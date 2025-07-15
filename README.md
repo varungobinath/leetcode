@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/varungobinath/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/varungobinath/leetcode/tree/master/2235-capitalize-the-title) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varungobinath/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3396-valid-word](https://github.com/varungobinath/leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/varungobinath/leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/varungobinath/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
