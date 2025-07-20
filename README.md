@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/varungobinath/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/varungobinath/leetcode/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/varungobinath/leetcode/tree/master/0874-backspace-string-compare) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/varungobinath/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/varungobinath/leetcode/tree/master/1642-water-bottles) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/varungobinath/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varungobinath/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/varungobinath/leetcode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/varungobinath/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/varungobinath/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/varungobinath/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/varungobinath/leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/varungobinath/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0874-backspace-string-compare](https://github.com/varungobinath/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varungobinath/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varungobinath/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/varungobinath/leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varungobinath/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/varungobinath/leetcode/tree/master/0155-min-stack) |
+| [0874-backspace-string-compare](https://github.com/varungobinath/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varungobinath/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
