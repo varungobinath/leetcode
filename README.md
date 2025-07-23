@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/varungobinath/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/varungobinath/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varungobinath/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/varungobinath/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/varungobinath/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varungobinath/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/varungobinath/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/varungobinath/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varungobinath/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/varungobinath/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/varungobinath/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/varungobinath/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varungobinath/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/varungobinath/leetcode/tree/master/0948-sort-an-array) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varungobinath/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/varungobinath/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varungobinath/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/varungobinath/leetcode/tree/master/3321-type-of-triangle) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/varungobinath/leetcode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varungobinath/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
 | ------- |
