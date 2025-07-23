@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/varungobinath/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/varungobinath/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/varungobinath/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varungobinath/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/varungobinath/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/varungobinath/leetcode/tree/master/0292-nim-game) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/varungobinath/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/varungobinath/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/varungobinath/leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/varungobinath/leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/varungobinath/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/varungobinath/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/varungobinath/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
