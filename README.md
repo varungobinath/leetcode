@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/varungobinath/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/varungobinath/leetcode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/varungobinath/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -321,10 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/varungobinath/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
+| [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
+| [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Greedy
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varungobinath/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varungobinath/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/varungobinath/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Sliding Window
 |  |
 | ------- |
