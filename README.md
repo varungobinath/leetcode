@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/varungobinath/leetcode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/varungobinath/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varungobinath/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/varungobinath/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/varungobinath/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/varungobinath/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varungobinath/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varungobinath/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/varungobinath/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varungobinath/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
