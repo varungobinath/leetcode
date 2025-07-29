@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/varungobinath/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/varungobinath/leetcode/tree/master/2235-capitalize-the-title) |
+| [2401-count-asterisks](https://github.com/varungobinath/leetcode/tree/master/2401-count-asterisks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varungobinath/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/varungobinath/leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
