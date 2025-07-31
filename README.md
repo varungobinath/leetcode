@@ -362,17 +362,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/varungobinath/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/varungobinath/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/varungobinath/leetcode/tree/master/0130-surrounded-regions) |
+| [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/varungobinath/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -433,4 +436,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/varungobinath/leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/varungobinath/leetcode/tree/master/0130-surrounded-regions) |
+| [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
