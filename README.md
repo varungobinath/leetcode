@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/varungobinath/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/varungobinath/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/varungobinath/leetcode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/varungobinath/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/varungobinath/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/varungobinath/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/varungobinath/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/varungobinath/leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/varungobinath/leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/varungobinath/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/varungobinath/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/varungobinath/leetcode/tree/master/0213-house-robber-ii) |
