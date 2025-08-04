@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varungobinath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/varungobinath/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varungobinath/leetcode/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/varungobinath/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/varungobinath/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/varungobinath/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/varungobinath/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varungobinath/leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/varungobinath/leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/varungobinath/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/varungobinath/leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/varungobinath/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0851-goat-latin](https://github.com/varungobinath/leetcode/tree/master/0851-goat-latin) |
