@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/varungobinath/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varungobinath/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/varungobinath/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/varungobinath/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/varungobinath/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varungobinath/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/varungobinath/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/varungobinath/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -456,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varungobinath/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/varungobinath/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/varungobinath/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
