@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/varungobinath/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/varungobinath/leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/varungobinath/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/varungobinath/leetcode/tree/master/0338-counting-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/varungobinath/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/varungobinath/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varungobinath/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/varungobinath/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varungobinath/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/varungobinath/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/varungobinath/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/varungobinath/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/varungobinath/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/varungobinath/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 ## Design
 |  |
