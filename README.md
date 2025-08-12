@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/varungobinath/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/varungobinath/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/varungobinath/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/varungobinath/leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/varungobinath/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varungobinath/leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/varungobinath/leetcode/tree/master/0742-to-lower-case) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varungobinath/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/varungobinath/leetcode/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/varungobinath/leetcode/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/varungobinath/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/varungobinath/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/varungobinath/leetcode/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/varungobinath/leetcode/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varungobinath/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungobinath/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/varungobinath/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/varungobinath/leetcode/tree/master/0257-binary-tree-paths) |
 ## Design
 |  |
 | ------- |
