@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varungobinath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/varungobinath/leetcode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/varungobinath/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/varungobinath/leetcode/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/varungobinath/leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/varungobinath/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0822-unique-morse-code-words](https://github.com/varungobinath/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/varungobinath/leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/varungobinath/leetcode/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varungobinath/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/varungobinath/leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/varungobinath/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/varungobinath/leetcode/tree/master/1036-rotting-oranges) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/varungobinath/leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/varungobinath/leetcode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/varungobinath/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/varungobinath/leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/varungobinath/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/varungobinath/leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varungobinath/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/varungobinath/leetcode/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varungobinath/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/varungobinath/leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/varungobinath/leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
