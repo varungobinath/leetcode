@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/varungobinath/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/varungobinath/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/varungobinath/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/varungobinath/leetcode/tree/master/1073-number-of-enclaves) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1293-three-consecutive-odds](https://github.com/varungobinath/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1395-minimum-time-visiting-all-points](https://github.com/varungobinath/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/varungobinath/leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/varungobinath/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/varungobinath/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/varungobinath/leetcode/tree/master/1073-number-of-enclaves) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/varungobinath/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/varungobinath/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/varungobinath/leetcode/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/varungobinath/leetcode/tree/master/1073-number-of-enclaves) |
 ## Stack
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varungobinath/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/varungobinath/leetcode/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varungobinath/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1073-number-of-enclaves](https://github.com/varungobinath/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varungobinath/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/varungobinath/leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/varungobinath/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/varungobinath/leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
