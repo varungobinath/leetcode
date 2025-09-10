@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/varungobinath/leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/varungobinath/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/varungobinath/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/varungobinath/leetcode/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/varungobinath/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3447-clear-digits](https://github.com/varungobinath/leetcode/tree/master/3447-clear-digits) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/varungobinath/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/varungobinath/leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varungobinath/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/varungobinath/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/varungobinath/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/varungobinath/leetcode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/varungobinath/leetcode/tree/master/2401-count-asterisks) |
