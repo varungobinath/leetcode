@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/varungobinath/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/varungobinath/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/varungobinath/leetcode/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/varungobinath/leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/varungobinath/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/varungobinath/leetcode/tree/master/1073-number-of-enclaves) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/varungobinath/leetcode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/varungobinath/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/varungobinath/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/varungobinath/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1039-find-the-town-judge](https://github.com/varungobinath/leetcode/tree/master/1039-find-the-town-judge) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/varungobinath/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varungobinath/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/varungobinath/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varungobinath/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1039-find-the-town-judge](https://github.com/varungobinath/leetcode/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
