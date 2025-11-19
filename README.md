@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varungobinath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/varungobinath/leetcode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/varungobinath/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varungobinath/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0542-01-matrix](https://github.com/varungobinath/leetcode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/varungobinath/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/varungobinath/leetcode/tree/master/0724-find-pivot-index) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varungobinath/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/varungobinath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/varungobinath/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varungobinath/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/varungobinath/leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/varungobinath/leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/varungobinath/leetcode/tree/master/0782-jewels-and-stones) |
