@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/varungobinath/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/varungobinath/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/varungobinath/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/varungobinath/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/varungobinath/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/varungobinath/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/varungobinath/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/varungobinath/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varungobinath/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/varungobinath/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varungobinath/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
