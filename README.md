@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/varungobinath/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/varungobinath/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/varungobinath/leetcode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/varungobinath/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/varungobinath/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/varungobinath/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varungobinath/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/varungobinath/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varungobinath/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/varungobinath/leetcode/tree/master/0155-min-stack) |
 | [0874-backspace-string-compare](https://github.com/varungobinath/leetcode/tree/master/0874-backspace-string-compare) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varungobinath/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/varungobinath/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [3738-make-array-non-decreasing](https://github.com/varungobinath/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Greedy
 |  |
